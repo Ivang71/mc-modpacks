@@ -1,0 +1,41 @@
+Better Advancements
+Dynamic FPS
+BadOptimizations
+XXL Packets
+Faster Random
+ModernFix
+VulkanMod
+Not Enough Recipe Book [NERB]
+Remove Reloading Screen
+Amplified Nether
+When Dungeons Arise: Seven Seas
+Memory Leak Fix
+Krypton
+Fabric API
+Sounds
+Clumps
+Jade 🔍
+Let Me Despawn
+No Fog
+Mod Menu
+Presence Footsteps
+Packet Fixer
+Async Locator
+CreativeCore
+Noisium
+Sound Physics Remastered
+When Dungeons Arise
+oωo (owo-lib)
+M.R.U
+Concurrent Chunk Management Engine (Fabric)
+3D Skin Layers
+LazyDFU
+FerriteCore
+Mouse Tweaks
+DashLoader
+Gotta Go Fast [Fabric]
+Isometric Renders
+Fastload
+Skip Transitions
+FastQuit
+Cloth Config API
